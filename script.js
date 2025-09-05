@@ -8,7 +8,7 @@ const pergunta2 = "Pergunta 2";
 
 const perguntas = [
   {
-    enunciado: "Pergunta 1",
+    enunciado: "Quem descobriu o Brasil?",
     alternativas: ["Alternativa 1", "Alternativa 2"],
   },
   {
